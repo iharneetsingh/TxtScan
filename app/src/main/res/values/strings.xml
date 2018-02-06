@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TxtScan</string>
+    <string name="ocr_header" />
+    <string name="read_text" />
+    <string name="auto_focus" />
+    <string name="use_flash" />
+    <string name="ocr_success"/>
+    <string name="ocr_failure"/>
+    <string name="ocr_error"/>
+</resources>
